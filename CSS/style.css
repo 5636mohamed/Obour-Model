@@ -1,0 +1,16 @@
+/*start global constrains*/
+:root{
+    --standard-color: #c3951d;
+    --text-color: #B5B1B1;
+    --tiwtter-color: #006DFF;
+    --instagram-color: #FFA000;
+    --linkedIn-color: #2E52E4;
+    --facebook-color: #1736FF;
+}
+ul{list-style: none}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*end global constrains*/
