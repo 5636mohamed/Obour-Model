@@ -1,4 +1,20 @@
+/*
+READ ME IMPORTANT: 
+* the constrains are now done by Mohamed Elharery
+** the current stylesheet will be constructed by using media queries to make phone style
+*** the work will start after the images and videos are sent
+**** Ahmed has the ability to start in his work early if he is free
+***** No frameworks are allowed in this code because it will be built manually
+****** All classes and trails to edit on the UI will be made on pen and be sent to me to review the suggestion
+
+the website is constructed and built by Mohamed Elharery, Ahmed Wael, and David Osama
+copyrights of work, consturction, and designing have been recieved at 2022
+
+*/
+
+
 /*start global constrains*/
+
 :root{
     --standard-color: #c3951d;
     --text-color: #B5B1B1;
@@ -10,11 +26,15 @@
     --heading-size: 50px;
     --transition-duration: 0.2s;
 }
+
 ul{list-style: none}
+
 a{text-decoration: none}
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
 /*end global constrains*/
